@@ -31569,19 +31569,7 @@ section.u-white:before,
   color: #111111 !important;
   background-color: #ffffff !important;
 }
-.u-button-style.u-white:hover,
-.u-button-style.u-white[class*="u-border-"]:hover,
-.u-button-style.u-white:focus,
-.u-button-style.u-white[class*="u-border-"]:focus,
-.u-button-style.u-button-style.u-white:active,
-.u-button-style.u-button-style.u-white[class*="u-border-"]:active,
-.u-button-style.u-button-style.u-white.active,
-.u-button-style.u-button-style.u-white[class*="u-border-"].active,
-li.active > .u-button-style.u-button-style.u-white,
-li.active > .u-button-style.u-button-style.u-white[class*="u-border-"] {
-  color: #111111 !important;
-  background-color: #e6e6e6 !important;
-}
+
 .u-hover-white:hover,
 .u-hover-white[class*="u-border-"]:hover,
 .u-hover-white:focus,
